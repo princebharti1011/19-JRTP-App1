@@ -1,0 +1,5 @@
+package com.wipro.PasswordDecorder.service;
+
+public class PasswordService {
+
+}
